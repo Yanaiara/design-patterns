@@ -24,7 +24,7 @@ Sinta-se à vontade para contribuir para este repositório! Se você identificar
 
 1. Clone o repositório para a sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/design-patterns.git
+   git clone https://github.com/yanaiara/design-patterns.git
    ```
 
 2. Explore os diferentes diretórios para encontrar os padrões de design de seu interesse.
