@@ -1,5 +1,3 @@
-import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import TaskComponent from './components/TaskComponent';
 import TaskFactoryComponent from './components/TaskFactoryComponent';
